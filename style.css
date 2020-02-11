@@ -1,0 +1,30 @@
+h1{
+      color: aquamarine;
+    background: brown;
+  font-family: 'Modern';
+    text-align: center;
+
+
+}
+p{
+    font-family: 'Modern';
+    color: aquamarine;
+    background: black;
+    text-align: right;
+    font-size: 25px;
+    
+}
+ div{
+     height:300px;
+     width:400px;
+     background:red;
+     background: url("DSC_0007.JPG");
+     background-size:cover;
+ }
+ p.two{
+    height:30px;
+    width:50px;
+    background:blue;
+    background: url("dsc3.jpg");
+
+ }
